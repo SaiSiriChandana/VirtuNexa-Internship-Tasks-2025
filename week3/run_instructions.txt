@@ -1,0 +1,10 @@
+# How to Compile and Run the Adventure Game
+
+1. Open terminal and navigate to this directory.
+
+2. Compile:
+   javac *.java
+
+3. Run:
+   java Main
+
